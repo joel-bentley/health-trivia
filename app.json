@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "health-trivia",
-    "description": "This project is really great.",
+    "description": "Health trivia project at Gupta Family Hackathon at U. of Michigan, March 24-25, 2018",
     "slug": "health-trivia",
     "privacy": "public",
     "sdkVersion": "25.0.0",
